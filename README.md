@@ -1,0 +1,1 @@
+Dynamic simulation of a rigid object with one skate constraint (non-holonomic) using Differential Algebraic Approach. Dynamics is derived symbolically via MATLAB symbolic computation (See pdf for problem setup)
